@@ -1,2 +1,5 @@
 # hello-world
-newbie
+
+Newbie here!
+
+10-mins-trial!
